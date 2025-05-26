@@ -17,7 +17,7 @@ class Solution1{
     
     public static void main(String[] args){
         System.out.println(uniqueCharacters("loveleetcode"));
-        System.out.println(uniqueCharacters("eetcode"));
+        System.out.println(uniqueCharacters("leetcode"));
         
     }
     }
