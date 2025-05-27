@@ -32,5 +32,6 @@ s consists of English letters, digits, symbols and spaces.
 
 - [ ] Code:
 Solution3.java file
-- [ ] Time & Space Complexity:
+- [ ] Time & Space Complexity: TC- O(n)
+SC- O(1)
 
