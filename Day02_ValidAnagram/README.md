@@ -1,6 +1,35 @@
 # Day02 ValidAnagram
 
-- [ ] Problem link: 
+- [ ] Problem link: https://leetcode.com/problems/valid-anagram/description/
+
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+ 
+
+Example 1:
+
+Input: s = "anagram", t = "nagaram"
+
+Output: true
+
+Example 2:
+
+Input: s = "rat", t = "car"
+
+Output: false
+
+ 
+
+Constraints:
+
+1 <= s.length, t.length <= 5 * 104
+s and t consist of lowercase English letters.
+ 
 - [ ] Approach:
-- [ ] Code:
+Use a frequency array and trace the frequency of characters of each array characters and if the frequency is 0 return true , else return false;
+- [ ] Code: 
+
+ Code -Solution2.java
 - [ ] Time & Space Complexity:
+TC-- O(n);
+SC-- O(1)
