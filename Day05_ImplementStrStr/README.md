@@ -27,3 +27,6 @@ two pointer approach
 Solution5.java 
 
 - [ ] Time & Space Complexity:
+Time complexity: O(n)
+Space complexity: O(1)
+
