@@ -2,10 +2,10 @@
 
 - [ ] Problem link: https://leetcode.com/problems/find-the-duplicate-number/description/
 - [ ] Problem description: There is a array of integers. Some integers may repeat and need to
-be removed. We need to return the number of unique integers in the array.
+be removed. We need to return the  unique integer in the array.
 - [ ] Example 1:
 - Input: nums = [1,2,2,3,4,4,5]
-- Output: 5
+- Output: 2
 - Explanation: The unique integers in the array are [1,2,3,4,5
 - ] 
 - [ ] Approach:

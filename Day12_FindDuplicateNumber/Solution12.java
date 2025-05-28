@@ -2,7 +2,7 @@ package Day12_FindDuplicateNumber;
 
 public class Solution12 {
     public static void main(String[] args) {
-        int[] nums = {1, 3, 4, 2, 2};
+        int[] nums = {1,2,3,4,4,5};
         int result = findDuplicate(nums);
         System.out.println("The duplicate number is: " + result);
     }
