@@ -21,16 +21,17 @@ public class Solution17 {
         
         // Add elements of nums2 to set2
         for (int num : nums2) {
+            if(set1.contains(num)){
             set2.add(num);
         }
-        
-        // Find intersection
-        set1.retainAll(set2);
+    }
+
+     
         
         // Convert the result to an array
-        int[] result = new int[set1.size()];
+        int[] result = new int[set2.size()];
         int index = 0;
-        for (int num : set1) {
+        for (int num : set2) {
             result[index++] = num;
         }
         
