@@ -1,3 +1,4 @@
+package Day31_LongestCommonPrefix;
 public class Solution31 {
     public static void main(String[] args) {
      
